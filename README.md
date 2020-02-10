@@ -7,6 +7,7 @@ As several employees will work to correct these problems, you are asked to make 
 Note that only the "quote.js" file needs to be corrected. The HTML file needs no modification.
 
 Here is the list of things to fix:
+
 1- The "Unit Price" field displays only the price of the Standard range
 
 2- The "N. of Elevator" field is not deleted when a mandatory field is deleted
